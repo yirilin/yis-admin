@@ -1,6 +1,9 @@
 admin/node_modules/
 admin/dist/
 admin/debug.log
+admin/package-lock.json
 server/vendor/
 server/.DS_Store
 server/.env
+server/package-lock.json
+server/composer.lock
