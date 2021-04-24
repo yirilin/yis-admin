@@ -31,3 +31,17 @@ npm run serve
  - 第二步：选择查询字段
  - 第三步：生成代码
  - 第四步：将生成的route代码放到route/admin.php
+
+#### demo图片
+
+###### 文章管理
+![article.png](https://raw.githubusercontent.com/yirilin/yis-admin/master/demoimg/article.png)
+
+###### 菜单管理
+![menu.png](https://raw.githubusercontent.com/yirilin/yis-admin/master/demoimg/menu.png)
+
+###### 自动代码
+![autoCode.png](https://raw.githubusercontent.com/yirilin/yis-admin/master/demoimg/autoCode.png)
+
+###### 地区配置
+![area.png](https://raw.githubusercontent.com/yirilin/yis-admin/master/demoimg/area.png)
