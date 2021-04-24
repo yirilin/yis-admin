@@ -32,7 +32,7 @@ npm run serve
  - 第三步：生成代码
  - 第四步：将生成的route代码放到route/admin.php
 
-#### demo图片
+## demo图片
 
 ###### 文章管理
 ![article.png](https://raw.githubusercontent.com/yirilin/yis-admin/master/demoimg/article.png)
